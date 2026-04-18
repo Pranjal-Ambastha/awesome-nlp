@@ -57,7 +57,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Research Summaries and Trends
 
-* [NLP-Overview](https://nlpoverview.com/) is an up-to-date overview of deep learning techniques applied to NLP, including theory, implementations, applications, and state-of-the-art results. This is a great Deep NLP Introduction for researchers.
 * [NLP-Progress](https://nlpprogress.com/) tracks the progress in Natural Language Processing, including the datasets and the current state-of-the-art for the most common NLP tasks
 * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
 * [ACL 2018 Highlights: Understanding Representation and Evaluation in More Challenging Settings](http://ruder.io/acl-2018-highlights/)
